@@ -12,4 +12,5 @@ Common implementations of superconducting qubits for quantum computing consist o
 
 ## Files
 1. StateDeterminant.ipynb : Contains IBM Experiments for Section 2 - Calibration Parameter Measurements
-2. CircuitQED_final.ipynb : Contains calculations for Section 5 - Interaction driven by Non-RWA terms of the Hamiltonian
+2. ACStark_and_CavityDrivingQubit.ipynb : Contains IBM Experiment for Section 3 - AC Stark Shift and Section 4 - Qubit States for Driven Cavity
+3. CircuitQED_final.ipynb : Contains calculations for Section 5 - Interaction driven by Non-RWA terms of the Hamiltonian
